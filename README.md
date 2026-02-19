@@ -21,7 +21,7 @@ It includes:
 
 ### Core Pipeline Files
 
-#### [`ingest_data.py`](`pipeline/ingest_data.py`)
+#### [`ingest_data.py`](pipeline/ingest_data.py)
 Standalone ingestion script.
 
 Responsible for:
